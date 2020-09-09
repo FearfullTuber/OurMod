@@ -1,0 +1,29 @@
+{
+  "id_map": {
+    "ENTITY": 1
+  },
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "magic",
+    "modName": "Magic",
+    "version": "1.0.0",
+    "author": "gaber",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.age_of_ages",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
